@@ -20,6 +20,7 @@ My CEHE certification and internship experience have equipped me with comprehens
 ## Skills & Tools
 ### Penetration Testing Tools:
 - **Nikto:** Used for web server scanning to identify vulnerabilities.
+- **Nmap:** Used for network discovery and vulnerability scanning to identify open ports, services, and potential security issues.
 - **Burp Suite:** Employed for web application security testing.
 - **Wireshark:** Utilized for network traffic analysis.
 - **Hydra:** Applied in brute-force attacks.
@@ -31,8 +32,17 @@ My CEHE certification and internship experience have equipped me with comprehens
 - **DDoS Attack:** Simulated Distributed Denial of Service attacks to overwhelm targeted systems and disrupt service availability.
 - **Man-in-the-Middle (MITM) Attack:** Executed MITM attacks to intercept and modify communication between two parties without their knowledge.
 
+### Subdomain Enumeration Tools:
+- **Sublist3r:** A tool for enumerating subdomains of a domain using various search engines.
+- **Amass:** Used for advanced subdomain enumeration and network mapping through OSINT techniques.
+- **Subfinder:** A fast subdomain discovery tool that leverages passive sources.
+
 ### Programming & Scripting:
 - **Command Line Interface (CLI) Development:** Created a CLI project for scanning files and links.
+
+### Platforms:
+- **Hack The Box:** Completed various machines to develop and refine practical penetration testing skills.
+- **TryHackMe:** Engaged in various challenges and rooms to gain hands-on experience and knowledge in cybersecurity.
 
 ## Projects
 ### Command-Line Virus Total Scanner
@@ -41,7 +51,7 @@ My CEHE certification and internship experience have equipped me with comprehens
 - **Features:**
   - Real-time scanning of files and URLs.
   - Automated reporting.
-
+ 
 ## Experience
 ### Internship at Cyber Defence Intelligence - CDI Consulting:
 - **Roles & Responsibilities:**
