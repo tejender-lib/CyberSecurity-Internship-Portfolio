@@ -28,8 +28,8 @@ My CEHE certification and internship experience have equipped me with comprehens
 - **ARP Poisoning:** Implemented ARP spoofing techniques.
 - **SQL Injection:** Exploited SQL vulnerabilities.
 - **Brute Force Attacks:** Used tools like Hydra and Burp Suite.
-- **DDoS Attack: Simulated Distributed Denial of Service attacks to overwhelm targeted systems and disrupt service availability.
-- **Man-in-the-Middle (MITM) Attack: Executed MITM attacks to intercept and modify communication between two parties without their knowledge.
+- **DDoS Attack:** Simulated Distributed Denial of Service attacks to overwhelm targeted systems and disrupt service availability.
+- **Man-in-the-Middle (MITM) Attack:** Executed MITM attacks to intercept and modify communication between two parties without their knowledge.
 
 ### Programming & Scripting:
 - **Command Line Interface (CLI) Development:** Created a CLI project for scanning files and links.
